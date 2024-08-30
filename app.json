@@ -4,7 +4,7 @@
   "keywords": ["telegram", "bot"],
   "repository": "https://github.com/MrMKN/Approve-All-JoinRequests",
   "env": {
-    "SESSION": {"description": "pyrogram v2 session string ⚠️ v2 required ⚠️", "value": ""},              
+    "SESSION": {"description": "pyrogram v2 session string ⚠️ v2 required ⚠️", "value": "BQFJ9mQAcOb_pbrDY2ll1WAeQDMDEn1HlggUZIfw3BBrV224U0cPlgS8s9NmqBq4Jt0xSs-3UZt3LIBaxAShuSmFHbMsMHwO_AHDDY-7mubNye1ZAkPaKn5Q9-SjPsZo-osTFPVGQM7EzjYzW1-MfUY_3CgzoXwtznLk7tw1qC53pHxss-NdqkNCpByDM8zkhUWCbWnTIWrJUnmhq4Cfinv4tgJhqTXNH0xQHdunECDZF0lFvVxJb0kVRKhjYLcsJ9NvttdzqYuDnqfgZo0bE5SCEz89QN9XmXfDeKVJETLM3bv0q8JScWr0pabMgC4TQFx-isQqTKnRtL3YkWIYN6HwlthVZQAAAAG9uewXAA"},              
   },
   "buildpacks": [{"url": "heroku/python"}]
 }
