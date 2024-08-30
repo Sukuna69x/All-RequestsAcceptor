@@ -6,7 +6,7 @@ from pyrogram.errors import FloodWait
 
 logging.basicConfig(level=logging.ERROR)
        
-SESSION = environ.get("SESSION", "BQFJ9mQAG0YuZDg0TYiiN4vYr9AeGQBig7B2YY7Hg8g3dV-dp9SucRRA5UbeDmbvvnivGr1moAxTDu-Nby1aXHVe7CpXD7P-7F9FYZ4fIHZShjYA3UJke0Lm51o9TsmY5xYHibI5PJv4OnGCT5J3oQ2UsGn-rS-Cjt5J3d69dz1MdCfUIdFaX38lxtvOWu02aLKYa_mWn4f51CeTD_RPFLADfFcROWOvoadiEIAhhkiKJ7A5mzsUus_YKbvhMm4RRGGnYwZLlG3rXk98L0g8qdeaI-JrBz0EjK8jvGG1ixbGbXFM0CKVFtyJ2xITnjY3pr5DRjd36-WYBUS8VwGiWYNhCCeKgAAAAAG9uewXAA")        
+SESSION = environ.get("SESSION", "BQFm0AUbAb3bHpMQcT_Xn8r_zPvafOBkz7mqlXjr7osnVz-rYrwaMhjmANSBxiq3mJp9vU2fZLWW5xMZCeR-ultYn_bjQAzYBCoELlPqa5P9kM5TE6-bKzRpcsoIXNEE-KHgmHJHBWSDh6N6hC4NEhFlLRA0yN5GHjBnojj4stNvGZyOF5Hc4cBiczX4iP11LgrCTdYSn6R8Z839KXFO4wQWAif65JNYBz6tsvC1YLDfaayWw4zU7fhYNx2qHRJccz9c2ObnG_Xecr9wO5rEnuEXyzZFc_J4g863G5JYn_RigjMlGX10Lj4DEqLJU0Z2GwlAlTupbTmWoBclV-nHR4XNPwAAAAGHQ9QeAA")        
 User = Client(name="AcceptUser", session_string=SESSION)
 
 
@@ -41,10 +41,3 @@ async def approve(client, message):
 
 logging.info("Bot Started....")
 User.run()
-
-
-
-
-
-
-
