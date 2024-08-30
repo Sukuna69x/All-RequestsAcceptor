@@ -8,7 +8,7 @@ Accept all pending join requests in a chat. UserBot
 
 
 ## Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/All-RequestsAcceptor)               
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sukuna69x/All-RequestsAcceptor)               
 
 ## Variables
 
