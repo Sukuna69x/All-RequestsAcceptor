@@ -4,7 +4,7 @@
   "keywords": ["telegram", "bot"],
   "repository": "https://github.com/MrMKN/Approve-All-JoinRequests",
   "env": {
-    "SESSION": {"description": "pyrogram v2 session string ⚠️ v2 required ⚠️", "value": "BQFm0AUbAb3bHpMQcT_Xn8r_zPvafOBkz7mqlXjr7osnVz-rYrwaMhjmANSBxiq3mJp9vU2fZLWW5xMZCeR-ultYn_bjQAzYBCoELlPqa5P9kM5TE6-bKzRpcsoIXNEE-KHgmHJHBWSDh6N6hC4NEhFlLRA0yN5GHjBnojj4stNvGZyOF5Hc4cBiczX4iP11LgrCTdYSn6R8Z839KXFO4wQWAif65JNYBz6tsvC1YLDfaayWw4zU7fhYNx2qHRJccz9c2ObnG_Xecr9wO5rEnuEXyzZFc_J4g863G5JYn_RigjMlGX10Lj4DEqLJU0Z2GwlAlTupbTmWoBclV-nHR4XNPwAAAAGHQ9QeAA"},              
+    "SESSION": {"description": "pyrogram v2 session string ⚠️ v2 required ⚠️", "value": "BQFm0Aip3sPLHXACllLaq4wd-Z2HJcWuZR7ETLffo-_rJdoRZjHip5CxrfJrP-tUAolrKzDV0y7O8Ca6ah7FeVZ0u9nB72SBNf1u68IWPLbvCBEgI0s0dfgEPdalTv_wgDU13id-x-sdHrD-Yi5g270_psbsOdN271ZoBfx45TSnUKIK8N-0She0udfXcTy06n5V8OOh1LN-PZp4H4jB_jSwOSHlHeKbyqnE1iJAwu5eRk-LsSn9Hi4-dPO_Q6Qiiom16oMOD6F4mu3jq52w1X8SaxX07nq_0xPmSwhh4ER9PVuYQ1LC44lIQ6AZ_WDClOnKBzPmzx5cena_MQfgLQvBTZ9wAAAAGHQ9QeAA"},              
   },
   "buildpacks": [{"url": "heroku/python"}]
 }
